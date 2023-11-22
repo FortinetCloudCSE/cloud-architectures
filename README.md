@@ -1,7 +1,4 @@
-# Fortinet Template Repo for TECWorkshops
+# Fortinet Cloud Architecture Diagram Repository
 
-## Prereqs
-  - Docker
- 
-## How to use this repo:
-https://fortinetcloudcse.github.io/UserRepo/index.html
+## View the Diagrams:
+https://fortinetcloudcse.github.io/cloud-architectures
