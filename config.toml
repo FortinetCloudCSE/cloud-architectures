@@ -1,7 +1,7 @@
 # this is a required setting for this theme to appear on https://themes.gohugo.io/
 # change this to a value appropriate for you; if your site is served from a subdirectory
 # set it like "https://example.com/mysite/"
-baseURL = "https://fortinetcloudcse.github.io/UserRepo/"
+baseURL = "https://fortinetcloudcse.github.io/Architectures/"
 googleAnalytics = "G-5RZBH288ST"
 
 languageCode = "en-US"
@@ -28,7 +28,7 @@ uglyURLs = true     # true -> basic/index.html -> basic.html
 # use this theme ;-)
 theme = ["hugo-theme-relearn"]
 
-title = "Hugo for Fortinet TECWorkshops"
+title = "cloud-architectures"
 
 # We disable this for testing the exampleSite; you must do so too
 # if you want to use the themes parameter disableGeneratorVersion=true;
@@ -84,10 +84,10 @@ enableEmoji = true
 
   #Optional, By Default, the logo banner will match the Text from themeVariant Above
   # If you would like to change the primary logo banner text, uncommenet logoBannerText Parameter and set to desired text.
-  #logoBannerText="Custom Logo Banner"
+  logoBannerText="Architecture Diagrams"
 
   # Optional: If you'd like additional logo sub text/descriptions, use logoBannerSubText Parameter.  leave empty string to omit: ""
-  logoBannerSubText="sample sub-banner text"
+  logoBannerSubText="Cloud"
 
 
   # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page. 
@@ -160,26 +160,16 @@ enableEmoji = true
   externalLinkTarget = "_blank"
 
 [[menu.shortcuts]] 
-name = "<i class='fas fa-graduation-cap'></i> Fortinet Cloud CSE GitHub Org"
+name = "<i class='fas fa-tools'></i> Fortinet Cloud CSE GitHub Org"
 url = "https://github.com/FortinetCloudCSE"
 weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-tools'></i>Fortinet Standard Workshop Guide"
-url = "https://fortinetcloudcse.github.io/UserRepo"
+name = "<i class='fas fa-tools'></i>Fortinet Public Cloud Documentation"
+url = "https://docs.fortinet.com/product/fortigate-public-cloud/7.4"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-tools'></i>Fortinet Standard Workshop Template Repo"
-url = "https://github.com/FortinetCloudCSE/UserRepo"
+name = "<i class='fas fa-tools'></i>Fortinet GitHub Repositories"
+url = "https://github.com/fortinet"
 weight = 21
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-tools'></i> Hugo reLearn theme - Guide"
-url = "https://mcshelby.github.io/hugo-theme-relearn/index.html"
-weight = 35
-
-[[menu.shortcuts]]
-name = "<i class='fas fa-graduation-cap'></i> AWS Sample Workshop"
-url = "https://aws-samples.github.io/aws-modernization-workshop-sample/"
-weight = 50
