@@ -1,4 +1,1 @@
-# Fortinet Cloud Architecture Diagram Repository
-
-## View the Diagrams:
-https://fortinetcloudcse.github.io/cloud-architectures
+<h1>cloud-architectures</h1><h3>To view the workshop, please go here: <a href="https://fortinetcloudcse.github.io/cloud-architectures/">cloud-architectures</a></h3><hr><h3>For more information on creating these workshops, please go here: <a href="https://fortinetcloudcse.github.io/UserRepo/">FortinetCloudCSE User Repo</a></h3>

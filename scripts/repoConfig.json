@@ -1,0 +1,31 @@
+{
+    "repoName": "Architectures",
+    "author": "Jeff Kopko",
+    "workshopTitle": "cloud-architectures",
+    "themeVariant": "Workshop",
+    "logoBannerText": "Architecture Diagrams",
+    "logoBannerSubText": "Cloud",
+    "errorLevel": "warning",
+    "googleServicesID": "G-5RZBH288ST",
+    "marketingCode": "FortiHugo202",
+    "shortcuts": [
+        {
+            "text": "Fortinet Cloud CSE GitHub Org",
+            "URL": "https://github.com/FortinetCloudCSE",
+            "icon": "fa-tools",
+            "weight": 1
+        },
+        {
+            "text": "Fortinet Public Cloud Documentation",
+            "URL": "https://docs.fortinet.com/product/fortigate-public-cloud/7.4",
+            "icon": "fa-tools",
+            "weight": 11
+        },
+        {
+            "text": "Fortinet GitHub Repositories",
+            "URL": "https://github.com/fortinet",
+            "icon": "fa-tools",
+            "weight": 21
+        }
+    ]
+}
